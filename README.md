@@ -1,1 +1,1 @@
-# Assembly-Platform-Game
+A platform game in MIPS Assembly
